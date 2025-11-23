@@ -1,0 +1,16 @@
+numpy==1.26.4
+pandas==2.2.2
+PyYAML==6.0.2
+transformers==4.44.2
+torch==2.4.1
+click==8.1.7
+shap==0.44.1
+scikit-learn==1.5.2
+matplotlib==3.9.2
+seaborn==0.13.2
+plotly==5.24.1
+
+# Libraries that require numpy < 2
+mediapipe==0.10.18
+monai==1.4.0
+tensorflow-intel==2.18.0
